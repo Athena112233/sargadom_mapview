@@ -1,0 +1,8 @@
+pandas
+gcsfs
+zarr
+xarray[complete]
+ecmwflibs
+rioxarray
+geopandas
+cartopy
