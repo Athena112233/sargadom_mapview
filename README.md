@@ -1,5 +1,5 @@
-# Duke Marine Ecology Lab
-### Duke MIDS Class of 2023 Capstone Project
+# Duke MIDS Class of 2023 Capstone Project
+### Duke Marine Ecology Lab
 
 High seas refer to the open ocean that’s not within the territorial waters or jurisdiction of any particular state. They make up about two-thirds of the world’s oceans. High seas support Important industries including fishing, gas exploration, sea mining, and sea shipping, but due to lack of jurisdiction, exploration of high seas lacks consistent and effective oversight. 
 
